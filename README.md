@@ -1,5 +1,4 @@
-# pecResultDownloadSort
-Primary School Certificate (PSC) Exam Result download and sort
+# Primary School Certificate (PSC) Exam Result Batch download and sort
 
 ![preview](https://raw.githubusercontent.com/biplobsd/pecResultDownloadSort/master/src/preview.gif)
 
